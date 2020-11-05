@@ -1,4 +1,5 @@
 # Quizz App
+![QuizApp Image](https://res.cloudinary.com/raph941/image/upload/v1604578506/Github%20/React-Quizz/1_kw8ipq.png)
 
 ## Built With
 1. JavaScript
